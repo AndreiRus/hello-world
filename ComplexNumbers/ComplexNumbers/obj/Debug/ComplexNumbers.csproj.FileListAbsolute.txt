@@ -1,0 +1,9 @@
+D:\Learning\ComplexNumbers\ComplexNumbers\bin\Debug\ComplexNumbers.exe.config
+D:\Learning\ComplexNumbers\ComplexNumbers\bin\Debug\ComplexNumbers.exe
+D:\Learning\ComplexNumbers\ComplexNumbers\bin\Debug\ComplexNumbers.pdb
+D:\Learning\ComplexNumbers\ComplexNumbers\obj\Debug\ComplexNumbers.csprojResolveAssemblyReference.cache
+D:\Learning\ComplexNumbers\ComplexNumbers\obj\Debug\ComplexNumbers.Form1.resources
+D:\Learning\ComplexNumbers\ComplexNumbers\obj\Debug\ComplexNumbers.Properties.Resources.resources
+D:\Learning\ComplexNumbers\ComplexNumbers\obj\Debug\ComplexNumbers.csproj.GenerateResource.Cache
+D:\Learning\ComplexNumbers\ComplexNumbers\obj\Debug\ComplexNumbers.exe
+D:\Learning\ComplexNumbers\ComplexNumbers\obj\Debug\ComplexNumbers.pdb
